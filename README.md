@@ -13,5 +13,5 @@ Implementation of a Neural Netwrok to perform Style Transfer
 <img src="images/Lal_quila.jpg" width="280"> <img src="images/galmpton-lal/50.png" width="280"> <img src="images/galmpton-lal/generated_image.jpg" width="280">
 
 
-
-<img src="" width="280">
+  * #### Content Image (images/Rashtrapati-bhavan.jpg)
+<img src="images/Rashtrapati-bhavan.jpg" width="280"> <img src="images/galmpton-rashtrapati/50.png" width="280"> <img src="images/galmpton-rashtrapati/generated_image.jpg" width="280">
